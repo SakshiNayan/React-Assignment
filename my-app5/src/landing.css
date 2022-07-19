@@ -1,0 +1,32 @@
+.container1{
+    display: flex;
+    width:40% ;
+    margin: auto;
+    margin-top: 50px;
+}
+.container1 img{
+    width:55% ;
+    height: 500px;
+}
+.container1 h2{
+    align-self: center;
+    color:green;
+}
+
+.container2{
+    align-self: center;
+    margin-left: 50px;
+}
+.container2 h2{
+        font-size:xx-large;
+}
+.container2 button{
+    margin-left: 60px;
+    color: green;
+    font-size:1em;
+}
+button{
+    padding: 10px;
+    border-radius: 5px;
+    border-color: green;
+}
